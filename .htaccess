@@ -1,5 +1,5 @@
 # Note: see https://httpd.apache.org/docs/current/howto/htaccess.html:
-#
+# .htaccess file is a directory-level configuration file supported by several web servers
 # "You should avoid using .htaccess files completely if you have access to
 # httpd main server config file. Using .htaccess files slows down your Apache
 # http server. Any directive that you can include in a .htaccess file is
